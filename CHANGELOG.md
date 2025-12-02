@@ -4,7 +4,12 @@ All notable changes to the "one-dark-paradox-theme" extension will be documented
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [0.0.2] - 2025-11-30
+## [0.0.4] - 2025-12-02
+
+### Changed
+- Change preview image to small one
+
+## [0.0.3] - 2025-12-02
 
 ### Changed
 - Add preview image to README.md

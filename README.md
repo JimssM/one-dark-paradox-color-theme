@@ -15,4 +15,4 @@ Then switch the color theme to "One Dark Paradox Theme"
 
 ## Preview
 
-<img width="1920" height="1080" alt="IMG_1937" src="https://github.com/user-attachments/assets/834e5c18-89c9-475b-aa5f-d0cb0c2465be" />
+<img src="images/preview_small.png" width="100%" alt="Theme Preview">
