@@ -7,6 +7,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.2] - 2025-11-30
 
 ### Changed
+- Add preview image to README.md
+
+## [0.0.2] - 2025-11-30
+
+### Changed
 - Updated README.md with improved documentation
 
 ## [0.0.1] - 2023-05-16
